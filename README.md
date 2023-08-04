@@ -1,2 +1,2 @@
 # meu-primeiro-repo
-Meu primeiro repositório
+console.log ("Olá Mundo")
